@@ -9,7 +9,9 @@ Installation Steps:
 3. then type npm run start where the line will run nodemon index.js which has been set in package.json
 
 If you have a warning like this:
-  sh: /Users/user/Documents/Rivaldi/new-projects/express-js-oop/node_modules/.bin/nodemon: Permission denied
+
+  - sh: /Users/user/Documents/Rivaldi/new-projects/express-js-oop/node_modules/.bin/nodemon: Permission denied
+
 this issue can solved with this, just paste it
 
 1. cd node_modules/.bin
