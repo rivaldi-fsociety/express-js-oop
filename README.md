@@ -10,7 +10,7 @@ Installation Steps:
 
 If you have a warning like this:
 
-  - sh: /Users/user/Documents/Rivaldi/new-projects/express-js-oop/node_modules/.bin/nodemon: Permission denied
+  - sh: /Users/user/Documents/{path}/new-projects/express-js-oop/node_modules/.bin/nodemon: Permission denied
 
 this issue can solved with this, just paste it
 
